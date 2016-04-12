@@ -10,6 +10,6 @@ public class TestUtil {
 
         String test = "'asdf','qwer',";
         System.out.println(test.substring(0, test.length() - 1));
-
+        System.out.println(test.substring(0, test.length() - 1));
     }
 }
